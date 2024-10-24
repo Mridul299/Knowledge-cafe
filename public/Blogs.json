@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/p0KJT6j/reduced-image.jpg",
+      "title": "Introduction to JavaScript",
+      "author_img": "https://example.com/images/author1.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/cover2.jpg",
+      "title": "Understanding CSS Grid",
+      "author_img": "https://example.com/images/author2.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-09-28",
+      "reading_time": 7,
+      "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/cover3.jpg",
+      "title": "Building REST APIs with Node.js",
+      "author_img": "https://example.com/images/author3.jpg",
+      "author": "Alex Johnson",
+      "posted_date": "2024-09-25",
+      "reading_time": 10,
+      "hashtags": ["#NodeJS", "#Backend", "#API"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/cover4.jpg",
+      "title": "Mastering React Hooks",
+      "author_img": "https://example.com/images/author4.jpg",
+      "author": "Emily Davis",
+      "posted_date": "2024-09-22",
+      "reading_time": 8,
+      "hashtags": ["#React", "#Hooks", "#JavaScript"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/cover5.jpg",
+      "title": "A Guide to Python Generators",
+      "author_img": "https://example.com/images/author5.jpg",
+      "author": "Michael Lee",
+      "posted_date": "2024-10-03",
+      "reading_time": 6,
+      "hashtags": ["#Python", "#Programming", "#DataScience"]
+    }
+  ]
+  
