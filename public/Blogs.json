@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/0nqwFzY/1.jpg",
+      "title": "Introduction to JavaScript",
+      "author_img": "https://i.ibb.co.com/ZMgsYRb/boy2.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/dkv81Nv/2.png",
+      "title": "Understanding CSS Grid",
+      "author_img": "https://i.ibb.co.com/nb17Yj1/girl1.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-09-28",
+      "reading_time": 7,
+      "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/vqhKrwz/3.png",
+      "title": "Building REST APIs with Node.js",
+      "author_img": "https://i.ibb.co.com/LtvqT8n/girl2.jpg",
+      "author": "Alex Johnson",
+      "posted_date": "2024-09-25",
+      "reading_time": 10,
+      "hashtags": ["#NodeJS", "#Backend", "#API"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/5Gb533j/4.jpg",
+      "title": "Mastering React Hooks",
+      "author_img": "https://i.ibb.co.com/60g6JXP/boy1.png",
+      "author": "Emily Davis",
+      "posted_date": "2024-09-22",
+      "reading_time": 8,
+      "hashtags": ["#React", "#Hooks", "#JavaScript"]
+    }
+  ]
+  
